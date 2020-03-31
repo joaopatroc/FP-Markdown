@@ -1,6 +1,6 @@
 # Linguagens de Programação Conhecidas:
 
-- C
-- javascript
-- Python
-- ...
++ **C**
++ **javascript**
++ **Python**
++ **...**
